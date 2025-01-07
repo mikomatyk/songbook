@@ -1,10 +1,8 @@
 # songbook
 
 A collection of song lyrics with accompanying guitar chords in a
-printer-friendly format.
-
-I keep them here for my own convenience, but feel free to use them as you like.
-Keep in mind, however:
+printer-friendly format. I keep them here for my own convenience, but feel free
+to use them as you like. Keep in mind, however:
 
 The chords presented here are based on what I hear, limited to what I can play,
 and sometimes adapted to suit my vocal range. I have no formal musical
