@@ -10,6 +10,22 @@ education; I'm a self-taught amateur guitar player and an average singer. As a
 result, the chords may (and often do) differ slightly from those you might find
 elsewhere on the internet. You have been warned!
 
+## Key notation
+
+I use the German key notation, where the note B is denoted as H, and B is used
+to represent A# (or Bb). See the following:
+
+    English
+    C  C#  D  D#  E  F  F#  G  G#  A  A#  B  C
+       Db     Eb        Gb     Ab     Bb
+    German
+    C  C#  D  D#  E  F  F#  G  G#  A  A#  H  C
+       Db     Eb        Gb     Ab     B
+
+In song lyrics side notes, major chords are written in uppercase letters, and
+minor chords in lowercase letters. Semitones are always in sharp notation, never
+flat (i.e. F#, not Gb).
+
 ## Author
 
 Unless explicitly stated otherwise, I am not the author of the song lyrics
