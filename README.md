@@ -30,7 +30,7 @@ flat (i.e. F#, not Gb).
 
 Unless explicitly stated otherwise, I am not the author of the songs presented
 here and do not claim any copyright over them. Any other content in this
-repository that may be a subject to licensing was prepared and [unlicensed][98]
+repository that may be a subject to licensing was created and [unlicensed][98]
 by [Mikołaj Bartnicki][99].
 
 [98]:UNLICENSE
