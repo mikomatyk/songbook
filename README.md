@@ -12,13 +12,13 @@ elsewhere on the internet. You have been warned!
 
 ## Key notation
 
-I use the German key notation, where the note B is denoted as H, and B is used
+I use the Polish key notation, where the note B is denoted as H, and B is used
 to represent A# (or Bb). See the following:
 
     English
     C  C#  D  D#  E  F  F#  G  G#  A  A#  B  C
        Db     Eb        Gb     Ab     Bb
-    German
+    Polish
     C  C#  D  D#  E  F  F#  G  G#  A  A#  H  C
        Db     Eb        Gb     Ab     B
 
@@ -28,10 +28,10 @@ flat (i.e. F#, not Gb).
 
 ## Author
 
-Unless explicitly stated otherwise, I am not the author of the song lyrics
-presented here and do not claim any copyright over them. Any other content in
-this repository that may be a subject to licensing was prepared and
-[UNLICENSED][98] by [Mikołaj Bartnicki][99].
+Unless explicitly stated otherwise, I am not the author of the songs presented
+here and do not claim any copyright over them. Any other content in this
+repository that may be a subject to licensing was prepared and [unlicensed][98]
+by [Mikołaj Bartnicki][99].
 
 [98]:UNLICENSE
 [99]:mailto:mikolaj@bartnicki.org
